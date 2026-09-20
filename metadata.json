@@ -1,0 +1,6 @@
+{
+  "name": "Notes PDF",
+  "description": "Organize study notes and PowerPoint slides by subject and unit with instant search, interactive slide presentation mode, and continuous PDF reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

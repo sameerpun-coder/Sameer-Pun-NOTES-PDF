@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Inner dark navy curved background inside the wrapper -->
+    <path
+        android:fillColor="#0D2775"
+        android:pathData="M27,42 C27,34 35,32 54,32 C73,32 81,34 81,42 C81,46 78,50 72,52 L72,60 C72,66 65,71 54,71 C43,71 36,66 36,60 L36,52 C30,50 27,46 27,42 Z" />
+
+    <!-- Document White Sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,24 L63,24 L74,35 L74,68 C74,70.5 72,72 69,72 L39,72 C36,72 34,70.5 34,68 L34,30 C34,26.7 36.7,24 40,24 Z" />
+
+    <!-- Folded top-right corner notch -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M63,24 L63,35 L74,35 Z" />
+
+    <!-- "PDF" Letters centered on the document in Royal Blue #1A55F5 -->
+    <!-- 'P' -->
+    <path
+        android:fillColor="#1A55F5"
+        android:fillType="evenOdd"
+        android:pathData="M42,39.5 L48.2,39.5 C51,39.5 52.8,41.1 52.8,43.4 C52.8,45.7 51,47.3 48.2,47.3 L45,47.3 L45,52.5 L42,52.5 Z M45,41.9 L45,44.9 L47.9,44.9 C49.2,44.9 50,44.2 50,43.4 C50,42.6 49.2,41.9 47.9,41.9 Z" />
+
+    <!-- 'D' -->
+    <path
+        android:fillColor="#1A55F5"
+        android:fillType="evenOdd"
+        android:pathData="M54,39.5 L60.2,39.5 C64.2,39.5 66.8,42.1 66.8,46 C66.8,49.9 64.2,52.5 60.2,52.5 L54,52.5 Z M57,42 L57,50 L59.8,50 C62.2,50 63.8,48.5 63.8,46 C63.8,43.5 62.2,42 59.8,42 Z" />
+
+    <!-- 'F' -->
+    <path
+        android:fillColor="#1A55F5"
+        android:pathData="M68,39.5 L77,39.5 L77,42.2 L71,42.2 L71,45 L76,45 L76,47.7 L71,47.7 L71,52.5 L68,52.5 Z" />
+
+    <!-- Lower Wrapping Blue Envelope / 3D Swoop Folder -->
+    <!-- Back inner left fold -->
+    <path
+        android:fillColor="#113DB8"
+        android:pathData="M27,42 C27,48 31,52 35,54 L35,63 C31,60 27,55 27,42 Z" />
+
+    <!-- Back inner right fold -->
+    <path
+        android:fillColor="#113DB8"
+        android:pathData="M81,42 C81,48 77,52 73,54 L73,63 C77,60 81,55 81,42 Z" />
+
+    <!-- Front wrapping ribbon/sleeve -->
+    <path
+        android:fillColor="#1D58F6"
+        android:pathData="M27,48 C27,58 35,64 45,67 C49,68.2 51,70.5 49,74 L43.5,82 C41,85 39,83 40,81 L46,73 C48,70 45,67.5 41,66 C32,62.5 27,56 27,48 Z" />
+
+    <!-- Right front ribbon curving down and wrapping -->
+    <path
+        android:fillColor="#194EE5"
+        android:pathData="M81,48 C81,64 68,79 50,81 C46,81.4 43.5,82 43.5,82 L49,74 C51,70.5 49,68.2 45,67 C60,65 77,58 77,48 C77,46 79,45 81,48 Z" />
+
+    <!-- Dynamic white fold stripe on the center swoosh tail -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,69.5 L46.5,77 C44.5,79.5 42.5,82 40,81 C41,79 43.5,77 45.5,74 L50.5,67 C51.5,67.8 52,68.6 52,69.5 Z" />
+
+</vector>
